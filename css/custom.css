@@ -1,0 +1,13 @@
+#float-image{
+    float:right;
+    clear:left;
+    padding: 15px;
+}
+
+#recipeInput{
+ width:50%;   
+}
+
+pre {
+	font-family: inherit;
+}
